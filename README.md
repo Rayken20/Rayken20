@@ -1,7 +1,9 @@
 # Hi there, I Am Rachael! 👋
 
 
-<img src="https://github.com/user-attachments/assets/243b72d6-d6ca-4b0f-8241-7d2a7d702f91" alt="github profile" width="200"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/243b72d6-d6ca-4b0f-8241-7d2a7d702f91" alt="github profile" width="400"/>
+</p>
 
 
 # Bio 
