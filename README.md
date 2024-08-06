@@ -20,8 +20,6 @@ As a full stack developer, I bring a blend of creativity 🎨 and technical prow
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rayken20&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![Rachael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rayken20&theme=gotham&layout=compact)
-<br/>
 
 # Tech Stacks
 
