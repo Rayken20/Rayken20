@@ -6,7 +6,8 @@
 
 # Bio 
 
-As a full stack developer, I bring a blend of creativity and technical prowess to every project I undertake. My passion lies in crafting comprehensive and engaging user experiences that span both front-end and back-end development. I enjoy translating complex problems into intuitive designs and efficient code. When I'm not immersed in development, I dedicate time to mentoring aspiring tech enthusiasts, sharing insights on the importance of empathy and human-centered design in technology. Welcome to my world 🌍, where innovation and compassion unite to build exceptional digital experiences!
+As a full stack developer, I bring a blend of creativity 🎨 and technical prowess 💻 to every project I undertake. My passion lies in crafting comprehensive and engaging user experiences that span both front-end and back-end development. I enjoy translating complex problems into intuitive designs and efficient code. When I'm not immersed in development, I dedicate time to learning more about new technologies 📚 and improving my skills. Welcome to my world 🌍, where innovation 🚀 and compassion ❤️ unite to build exceptional digital experiences!
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Rayken20)
 
