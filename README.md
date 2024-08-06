@@ -1,6 +1,6 @@
 # Hi there, I Am Rachael! 👋
 
-<a href="https://Rayken20/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
+<a href="https://Rayken20/" target="_blank"><img src="https://thum/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
 # Bio 
 
 I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
