@@ -2,11 +2,10 @@
 
 <p align="center">
   <span style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-    Rachael Njoki<br>Web Developer
+    Rachael Njoki, Web Developer
   </span>
   <img src="https://github.com/user-attachments/assets/243b72d6-d6ca-4b0f-8241-7d2a7d702f91" alt="github profile" width="200" style="display: inline-block; vertical-align: middle;"/>
 </p>
-
 
 # Bio 
 
