@@ -38,10 +38,10 @@ As a full stack developer, I bring a blend of creativity 🎨 and technical prow
 <br/>
 
 ### Back-End Languages
-<img src="https://img.shields.io/badge/Python-CC342D?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="left"/> 
+<img src="https://img.shields.io/badge/Python-CC342D?style=for-the-badge&logo=python&logoColor=white" alt="Python" align="left"/> <br/>
 
 ### Back-End Frameworks and Libraries
-<img src="https://img.shields.io/badge/Flask-CC0000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" align="left"/>
+<img src="https://img.shields.io/badge/Flask-CC0000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" align="left"/> <br/>
 
 
 ### Databases
