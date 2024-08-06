@@ -33,16 +33,15 @@ As a full stack developer, I bring a blend of creativity 🎨 and technical prow
 
 ### Front-End Frameworks and Libraries
 
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=React&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/react.js-%23E23237.svg?style=for-the-badge&logo=React&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
 <br/>
 
 ### Back-End Languages
-<img src = "https://img.shields.io/badge/python%23ED8B00.svg?style=for-the-badge&logo=python&logoColor=white" align = "left"/>
-<br/>
+<img src = "https://img.shields.io/badge/python%23CC342D.svg?style=for-the-badge&logo=python&logoColor=white" align = "left"/> <br/>
 
 ### Back-End Frameworks and Libraries
-<img src = "https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=flask&logoColor=white" align = "left"/> <br/>
+<img src = "https://img.shields.io/badge/flask%23CC0000.svg?style=for-the-badge&logo=flask&logoColor=white" align = "left"/> <br/>
 
 ### Databases
 
