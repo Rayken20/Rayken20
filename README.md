@@ -1,6 +1,9 @@
 # Hi there, I Am Rachael! 👋
 
-<a href="https://Rayken20/" target="_blank"><img src="https://thum/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
+
+
+<a href="https://Rayken20/" target="_blank"><img src="![github profile](https://github.com/user-attachments/assets/6444004d-e50e-4100-81b8-17032e98558d)"
+ alt="image host"/></a>
 # Bio 
 
 As a full stack developer, I bring a blend of creativity and technical prowess to every project I undertake. My passion lies in crafting comprehensive and engaging user experiences that span both front-end and back-end development. I enjoy translating complex problems into intuitive designs and efficient code. When I'm not immersed in development, I dedicate time to mentoring aspiring tech enthusiasts, sharing insights on the importance of empathy and human-centered design in technology. Welcome to my world 🌍, where innovation and compassion unite to build exceptional digital experiences!
